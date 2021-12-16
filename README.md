@@ -9,4 +9,4 @@ The purpose of this Assignment is to improve the codes of the application made.
 ## Screenshots
 ![Screenshot](./screenshots/Screenshot_1639652483.png)
 ![Screenshot](./screenshots/Screenshot_1639652497.png)
-![Screenshot](./screenshots/Screenshot_1639652497.png)
+![Screenshot](./screenshots/Screenshot_1639652504.png)
